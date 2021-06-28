@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @melanie0666
+- 👀 I’m interested in anime and music.
+- 🌱 I’ve learned a small bit of Python and used Unity to build things for VRChat.
+- 📫 Reach me on Discord: melanie#1382
